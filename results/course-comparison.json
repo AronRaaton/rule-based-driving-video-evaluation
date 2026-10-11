@@ -1,0 +1,18 @@
+{
+  "matched_samples": 100,
+  "true_positives": 12,
+  "true_negatives": 58,
+  "false_positives": 15,
+  "false_negatives": 15,
+  "binary_agreement": 0.7,
+  "precision": 0.4444444444444444,
+  "recall": 0.4444444444444444,
+  "f1": 0.4444444444444444,
+  "attack_level_exact_agreement": 0.61,
+  "mean_absolute_score_difference": {
+    "semantic": 0.3575,
+    "logical": 0.31,
+    "decision": 0.1675
+  },
+  "provenance": "Computed during portfolio preparation from existing human-only and Rule2 JSON files; merged submission verified equal. Not an independent holdout evaluation."
+}
